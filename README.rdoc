@@ -1,3 +1,13 @@
 == README
 
 A Rehoming centre for charity, Pledge a Pound. Caters for rabbits and guinea pigs
+
+Planned Features
+
+* Multiple animal support
+* Admin set breeds
+* Admin set colours
+* Rescue profiles
+* Animal profiles
+* Animal Search
+
