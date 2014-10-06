@@ -2,6 +2,22 @@
 
 /* Colour Variables */
 
+$white: #fff;
 $lightbrown: #ddb36e;
 $darkbrown: #775b4d;
 $grey: #f7f5ed;
+
+/* backgrounds */
+
+body {
+	background-color: $lightbrown;
+}
+
+.white {
+	background-color: $white
+}
+
+.grey {
+	background-color: $grey;
+	border: 1px solid #d5c9bf;
+}
